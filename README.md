@@ -50,13 +50,3 @@ Users can enter a movie review and receive:
 - Streamlit
 - Joblib
 
-## Project Structure
-
-```text
-├── app.py
-├── model/
-│   └── sentiment_pipeline.joblib
-├── notebooks/
-│   └── model_training.ipynb
-├── requirements.txt
-└── README.md
